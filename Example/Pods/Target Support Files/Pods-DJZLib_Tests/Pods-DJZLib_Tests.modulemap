@@ -1,0 +1,6 @@
+framework module Pods_DJZLib_Tests {
+  umbrella header "Pods-DJZLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

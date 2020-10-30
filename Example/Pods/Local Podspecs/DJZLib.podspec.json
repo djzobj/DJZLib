@@ -1,0 +1,22 @@
+{
+  "name": "DJZLib",
+  "version": "0.1.0",
+  "summary": "A short description of DJZLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1345726337@qq.com/DJZLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1345726337@qq.com": "zhangdejun@jianbing.com"
+  },
+  "source": {
+    "git": "https://github.com/1345726337@qq.com/DJZLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DJZLib/Classes/**/*"
+}

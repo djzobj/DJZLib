@@ -1,0 +1,6 @@
+framework module DJZLib {
+  umbrella header "DJZLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
